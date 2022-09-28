@@ -8,8 +8,8 @@ php, apache and mysql
 2.) git clone (this repo)
 3.) start services (apache and mysql)
 4.) import sql file and run in database manager (phpmyadmin)
-6.) go to localhost/(** path of the project from <public[www] or htdocs>)
-7.) happy hacking
+5.) go to localhost/(** path of the project from <public[www] or htdocs>)
+6.) happy hacking
 
 -------- Login Credentials ----------
 username: matatizo@unique.co.tz
