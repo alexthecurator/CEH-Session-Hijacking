@@ -1,4 +1,4 @@
-Simple PHP login to splash screen testing session hijacking lab
+Simple PHP login to splash screen session hijacking lab
 
 -------- Requirements --------
 php, apache and mysql
